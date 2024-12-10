@@ -1,4 +1,4 @@
-# Canny-Edge-Detection
+# Input-Image
 Canny Edge detection
-# Canny-Edge-Detection
+# Output-Image
 Canny Edge detection
