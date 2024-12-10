@@ -49,15 +49,14 @@
 
    <h2>View the Code</h2>
         <p>Check out the complete implementation on GitHub: 
-            <a href="https://github.com/yourusername/your-repository-name" target="_blank">GitHub Repository</a>
+            <a href="https://github.com/Mokshitha1303/Canny-Edge-Detection/blob/main/Canny_Edge_Detection.ipynb" target="_blank">GitHub Repository</a>
         </p>
 
-   <h2>License</h2>
-        <p>This project is licensed under the MIT License.</p>
-    </div>
+ 
+ </div>
 
   <footer>
-        <p>&copy; 2024 <Your_Name>. All rights reserved.</p>
+        <p>&copy; 2024 Mokshitha Mohan</p>
     </footer>
 </body>
 </html>
