@@ -2,7 +2,8 @@
 
 This project demonstrates the use of **Canny Edge Detection**, a popular edge detection algorithm in computer vision, implemented using OpenCV. The algorithm detects edges in an image by applying gradient-based techniques, providing a foundation for object detection and feature extraction in computer vision tasks.
 
-![Edge Detection Output](https://github.com/yourusername/your-repository-name/blob/main/canny_output.png)
+![8](https://github.com/user-attachments/assets/e2d7ab27-8102-412e-8455-3ae76b739fa0)
+
 
 ## Project Overview
 
