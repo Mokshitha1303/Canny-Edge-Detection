@@ -21,23 +21,10 @@
             <li><strong>Canny Edge Detection:</strong> A robust technique for detecting prominent edges based on gradient intensity.</li>
         </ul>
 
-  <h2>Output Images</h2>
-        <p>Below are the sample outputs for different edge detection methods:</p>
-        <h3>Original Image:</h3>
-        <img src="![8](https://github.com/user-attachments/assets/e2d7ab27-8102-412e-8455-3ae76b739fa0)
-" alt="Original Image">
-        
-   <h3>Sobel X:</h3>
-        <img src="https://yourlink.com/sobel-x.jpg" alt="Sobel X">
-        
-   <h3>Sobel Y:</h3>
-        <img src="https://yourlink.com/sobel-y.jpg" alt="Sobel Y">
-        
-   <h3>Sobel Combined:</h3>
-        <img src="https://yourlink.com/sobel-combined.jpg" alt="Sobel Combined">
-        
-   <h3>Canny Edge Detection:</h3>
-        <img src="https://yourlink.com/canny-edges.jpg" alt="Canny Edge Detection">
+  <h2>Input and Output Images</h2>
+        <p>Check out the Images: 
+            <a href="https://github.com/Mokshitha1303/Canny-Edge-Detection/blob/main/Input%20and%20Output%20Images.md" target="_blank">LINK</a>
+        </p>
 
    <h2>How to Run</h2>
         <ol>
