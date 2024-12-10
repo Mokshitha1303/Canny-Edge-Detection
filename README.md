@@ -1,63 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Edge Detection using OpenCV">
-   
-</head>
-<body>
-    <header>
-        <h1>Edge Detection</h1>
-    </header>
+# Canny-Edge-Detection-Using-OpenCV
 
-   <div class="container">
-        <h2>About the Project</h2>
-        <p>
-            This project demonstrates edge detection techniques using OpenCV. It processes an input image and applies the following methods:
-        </p>
-        <ul>
-            <li><strong>Sobel Edge Detection:</strong> Detects edges along the X-axis, Y-axis, and combines both.</li>
-            <li><strong>Canny Edge Detection:</strong> A robust technique for detecting prominent edges based on gradient intensity.</li>
-        </ul>
+This project demonstrates the use of **Canny Edge Detection**, a popular edge detection algorithm in computer vision, implemented using OpenCV. The algorithm detects edges in an image by applying gradient-based techniques, providing a foundation for object detection and feature extraction in computer vision tasks.
 
-  <h2>Input and Output Images</h2>
-        <p>Check out the Images: 
-            <a href="https://github.com/Mokshitha1303/Canny-Edge-Detection/blob/main/Input%20and%20Output%20Images.md" target="_blank">LINK</a>
-        </p>
+![Edge Detection Output](https://github.com/yourusername/your-repository-name/blob/main/canny_output.png)
 
-   <h2>How to Run</h2>
-        <ol>
-            <li>Install the required libraries:</li>
-            <pre><code>pip install opencv-python-headless</code></pre>
-            <li>Upload an image to your working directory (e.g., <code>images.jpeg</code>).</li>
-            <li>Run the script in a Colab environment:</li>
-            <pre><code>python edge_detection.py</code></pre>
-        </ol>
+## Project Overview
 
-   <h2>Features</h2>
-        <ul>
-            <li>Pre-processes the image by converting it to grayscale and applying Gaussian blur.</li>
-            <li>Visualizes edges detected using Sobel (X, Y, combined) and Canny methods.</li>
-        </ul>
+### Key Features
+1. **Image Preprocessing**:
+   - Converts the input image to grayscale.
+   - Applies Gaussian Blur to reduce noise for better edge detection.
+2. **Canny Edge Detection**:
+   - Uses a two-threshold process to detect edges, focusing on prominent changes in intensity.
+   - Outputs a binary image highlighting detected edges.
+3. **Visualization**:
+   - Displays the original image and the edge-detected image side by side.
 
-   <h2>Applications</h2>
-        <ul>
-            <li>Object boundary detection in computer vision tasks.</li>
-            <li>Feature extraction for image analysis.</li>
-        </ul>
+## How It Works
+1. **Grayscale Conversion**:
+   - Simplifies the image by reducing color channels.
+2. **Gaussian Blur**:
+   - Smoothens the image to reduce the effect of noise.
+3. **Edge Detection**:
+   - Applies the Canny algorithm with defined thresholds to detect edges.
 
-   <h2>View the Code</h2>
-        <p>Check out the complete implementation on GitHub: 
-            <a href="https://github.com/Mokshitha1303/Canny-Edge-Detection/blob/main/Canny_Edge_Detection.ipynb" target="_blank">GitHub Repository</a>
-        </p>
+## Prerequisites
+- Python 3.x
+- OpenCV library (`opencv-python`)
+- Google Colab (optional, for execution)
 
- 
- </div>
-
-  <footer>
-        <p>&copy; 2024 Mokshitha Mohan</p>
-    </footer>
-</body>
-</html>
-
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repository-name.git
