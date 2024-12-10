@@ -33,4 +33,4 @@ This project demonstrates the use of **Canny Edge Detection**, a popular edge de
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/Mokshitha1303/Canny-Edge-Detection/blob/main/Canny_Edge_Detection.ipynb
